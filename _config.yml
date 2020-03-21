@@ -7,7 +7,7 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
-author: alice
+author: tubone
 description: Example description
 description_long: Example long description
 email: info@example.com
