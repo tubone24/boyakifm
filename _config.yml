@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-161518441-1
 hashtag: tuboneboyaki
 itunes_podcast_url:
 keywords: boyaki,engineering,guitar
