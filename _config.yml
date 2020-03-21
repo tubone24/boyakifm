@@ -8,9 +8,9 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: tubone
-description: Example description
-description_long: Example long description
-email: info@example.com
+description: tuboneがぼやくだけのポッドキャスト
+description_long: tuboneがぼやくだけのポッドキャスト
+email: 
 exclude:
   - docker
   - docker-compose.yml
