@@ -7,10 +7,14 @@ actors:
     image_url: /images/actors/bob.png
     name: bob
     url: http://sns.example.com/bob
+  tubone:
+    image_url: /images/actors/tubone24.png
+    name: bob
+    url: https://blog.tubone-project24.xyz
 author: tubone
 description: tuboneがぼやくだけのポッドキャスト
 description_long: tuboneがぼやくだけのポッドキャスト
-email: 
+email: tubo.yyyuuu＠gmail.com
 exclude:
   - docker
   - docker-compose.yml
