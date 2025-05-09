@@ -1,16 +1,16 @@
 actors:
   alice:
-    image_url: /images/actors/alice.png
+    image_url: /images/actors/a.png
     name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
+    url: https://tubone-project24.xyz
+  k:
+    image_url: /images/actors/k.png
+    name: K
+    url: https://tubone-project24.xyz
   tubone:
     image_url: /images/actors/tubone24.png
-    name: bob
-    url: https://blog.tubone-project24.xyz
+    name: tubone
+    url: https://tubone-project24.xyz
 author: tubone
 description: tuboneがぼやくだけのポッドキャスト
 description_long: tuboneがぼやくだけのポッドキャスト
